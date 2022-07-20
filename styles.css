@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(/images/formpic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.tablebox{
+    background-color: rgb(176, 226, 243);
+    
+}
+
+h1,h2,h3{
+    color: lightcoral;
+}
+.pnav{
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
